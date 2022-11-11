@@ -14,10 +14,7 @@ function App() {
     { make: "Mers", model: "Mers", price: 92000, date: "12-02-2022", available: true }
   ];
 
-  // const columns = [{ headerName: "Make", field: "make" },
-  // { headerName: "Price", field: "price" },
-  // { headerName: "Model", field: "model" },
-  // { headerName: "Date", field: "date" }]
+  
 
   const getDynamicColumns = (obj) => {
     return Object.keys(obj).map(key => ({ field: key }))
