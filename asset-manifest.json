@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-grid/static/css/main.cbaad471.css",
+    "main.js": "/react-grid/static/js/main.41cf914c.js",
+    "static/js/787.1912a3ea.chunk.js": "/react-grid/static/js/787.1912a3ea.chunk.js",
+    "static/media/logo.svg": "/react-grid/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-grid/index.html",
+    "main.cbaad471.css.map": "/react-grid/static/css/main.cbaad471.css.map",
+    "main.41cf914c.js.map": "/react-grid/static/js/main.41cf914c.js.map",
+    "787.1912a3ea.chunk.js.map": "/react-grid/static/js/787.1912a3ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbaad471.css",
+    "static/js/main.41cf914c.js"
+  ]
+}
